@@ -234,9 +234,3 @@ export default function AppointmentList() {
 }
 
 
-
-
-
-
-
-
