@@ -1,3 +1,6 @@
+Deploy link : https://venerable-rugelach-a78ef7.netlify.app/
+
+
 # 🦷 DentalCare Pro - Modern Dental Practice Management System
 
 Welcome to DentalCare Pro! This is a comprehensive dental practice management system built with love and care for both dentists and patients. Think of it as your digital dental assistant that never takes a coffee break! ☕
